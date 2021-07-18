@@ -15,5 +15,5 @@ I) Create two android projects and one firebase project:
  
  IV) PushNotificationServer:
  i) Create Android Project, give name to project (here PushNotificationServer) and add Volley library in build.gradle.
- ii) Open your
+ ii) Open your firebase project and go to project settings -> cloud messaging tab and copy firebase server key and paste it into 
 
