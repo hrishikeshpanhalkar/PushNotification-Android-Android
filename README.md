@@ -22,9 +22,9 @@ I) Create two android projects and one firebase project:<br>
  i) PushNotificationServer:<br>
  <img src="images/ss1.jpeg" width=300 height=600><br>
  
- i) PushNotificationClient:<br>
+ ii) PushNotificationClient:<br>
  <img src="images/ss2.jpeg" width=300 height=600>
  <img src="images/ss3.jpeg" width=300 height=600>
-  <img src="images/ss4.jpeg" width=300 height=600>
+ <img src="images/ss4.jpeg" width=300 height=600>
  
 
